@@ -1,0 +1,16 @@
+.box { 
+	width: 20%;
+	height: 500px;
+	margin: 30px;
+	padding: 20px;
+	float: right;
+	border: 1px solid gray;
+}
+.day{
+	background: aqua;
+	color: black;
+}
+.night{
+	background: pink;
+	color: black;
+}
